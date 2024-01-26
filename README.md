@@ -22,3 +22,4 @@ don't let a developer hear these words
 - next sprint
 - safari is good
 - microsoft teams
+- agile
