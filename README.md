@@ -8,3 +8,4 @@ don't let a developer hear these words
 - contract
 - 🫶
 - regression
+- safari is good
