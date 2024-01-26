@@ -21,3 +21,4 @@ don't let a developer hear these words
 - do the needful
 - next sprint
 - safari is good
+- microsoft teams
