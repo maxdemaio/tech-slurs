@@ -6,4 +6,4 @@ don't let a developer hear these words
 - impediment
 - breaking change
 - contract
-- :heart_hands:
+- 🫶
