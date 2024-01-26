@@ -7,3 +7,4 @@ don't let a developer hear these words
 - breaking change
 - contract
 - 🫶
+- regression
