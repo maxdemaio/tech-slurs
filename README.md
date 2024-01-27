@@ -23,4 +23,5 @@ don't let a developer hear these words
 - safari is good
 - microsoft teams
 - agile
+- redesign
 - webscale
