@@ -25,3 +25,4 @@ don't let a developer hear these words
 - agile
 - redesign
 - webscale
+- responsive
