@@ -27,3 +27,4 @@ don't let a developer hear these words
 - webscale
 - responsive
 - edge case
+- nitpicking
