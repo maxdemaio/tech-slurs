@@ -26,3 +26,4 @@ don't let a developer hear these words
 - redesign
 - webscale
 - responsive
+- nitpicking
