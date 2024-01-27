@@ -24,3 +24,4 @@ don't let a developer hear these words
 - microsoft teams
 - agile
 - redesign
+- webscale
