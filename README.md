@@ -30,3 +30,4 @@ don't let a developer hear these words
 - nitpicking
 - any
 - p1
+- on prem
