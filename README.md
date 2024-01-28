@@ -31,3 +31,6 @@ don't let a developer hear these words
 - any
 - p1
 - on prem
+- synergy
+- disruptive
+- blockchain
