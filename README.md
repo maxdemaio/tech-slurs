@@ -34,3 +34,4 @@ don't let a developer hear these words
 - synergy
 - disruptive
 - blockchain
+- micromanaging
