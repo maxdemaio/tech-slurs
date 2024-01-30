@@ -35,3 +35,4 @@ don't let a developer hear these words
 - disruptive
 - blockchain
 - micromanaging
+- git push -f
