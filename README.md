@@ -36,3 +36,4 @@ don't let a developer hear these words
 - blockchain
 - micromanaging
 - git push -f
+- code coverage
