@@ -41,3 +41,4 @@ don't let a developer hear these words
 - waterfall
 - clean code
 - requirements
+- stakeholders
