@@ -37,3 +37,7 @@ don't let a developer hear these words
 - micromanaging
 - git push -f
 - code coverage
+- silo
+- waterfall
+- clean code
+- requirements
