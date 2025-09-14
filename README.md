@@ -44,3 +44,4 @@ don't let a developer hear these words
 - stakeholders
 - how can we add ai to this?
 - shower
+- temporary solution
